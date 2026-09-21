@@ -12,3 +12,4 @@ The system combines:
 The prototype analyzes user-provided battery information, retrieves relevant technical and sustainability knowledge, applies safety-oriented decision logic, and generates an evidence-grounded recommendation.
 
 The system does not certify battery safety. Its output is intended as decision support and identifies when professional evaluation or responsible recycling should be considered.
+![Dashboard Screenshot](screenshots/screenshot fin.png)
