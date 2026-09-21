@@ -1,2 +1,14 @@
-# BatteryWise-AI-An-Agentic-RAG-System-for-Sustainable-Battery-Lifecycle-Decisions
-BatteryWise AI is an AI decision-support system for battery lifecycles. Users input chemistry, age, cycle count, and condition. An Agentic AI workflow validates data and retrieves knowledge via RAG. IBM Granite then analyzes findings to recommend further evaluation, second-life reuse, or recycling. Prototyping was conducted with IBM BOB.
+## An Agentic RAG System for Sustainable Battery Lifecycle Decisions
+
+BatteryWise AI is an AI-powered decision-support prototype designed to help users make more informed decisions about the potential lifecycle pathway of used batteries.
+
+The system combines:
+- IBM Granite
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI
+- Prompt Engineering
+- IBM BOB
+
+The prototype analyzes user-provided battery information, retrieves relevant technical and sustainability knowledge, applies safety-oriented decision logic, and generates an evidence-grounded recommendation.
+
+The system does not certify battery safety. Its output is intended as decision support and identifies when professional evaluation or responsible recycling should be considered.
